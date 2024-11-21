@@ -24,13 +24,13 @@ const wordsByOfficio = {
         { palabra: "horno", pista: "Aparato utilizado para hornear alimentos." },
         { palabra: "sarten", pista: "Utensilio para freír o saltear comida." },
         { palabra: "ingrediente", pista: "Elemento necesario para cocinar algo." },
-        { palabra: "menú", pista: "Lista de platillos disponibles en un restaurante." },
+        { palabra: "menu", pista: "Lista de platillos disponibles en un restaurante." },
         { palabra: "olla", pista: "Recipiente para cocinar sopas o guisos." },
         { palabra: "cuchillo", pista: "Herramienta esencial para cortar alimentos." },
         { palabra: "mezclar", pista: "Acción de combinar ingredientes." },
         { palabra: "especias", pista: "Ingredientes que aportan sabor y aroma a los platillos." },
         { palabra: "licuadora", pista: "Aparato para triturar o mezclar alimentos líquidos." },
-        { palabra: "pastelería", pista: "Rama de la cocina enfocada en postres y dulces." },
+        { palabra: "pasteleria", pista: "Rama de la cocina enfocada en postres y dulces." },
         { palabra: "batidora", pista: "Aparato para mezclar o batir ingredientes." },
         { palabra: "tabla", pista: "Superficie usada para cortar alimentos." },
         { palabra: "guiso", pista: "Comida cocinada lentamente en una mezcla de líquidos." }
@@ -43,8 +43,8 @@ const wordsByOfficio = {
         { palabra: "peine", pista: "Herramienta para desenredar y peinar el cabello." },
         { palabra: "manicura", pista: "Cuidado estético de las uñas." },
         { palabra: "secador", pista: "Aparato para secar y estilizar el cabello." },
-        { palabra: "peluquería", pista: "Lugar donde se ofrecen servicios de corte y estilismo." },
-        { palabra: "champú", pista: "Producto usado para lavar el cabello." },
+        { palabra: "peluqueria", pista: "Lugar donde se ofrecen servicios de corte y estilismo." },
+        { palabra: "champu", pista: "Producto usado para lavar el cabello." },
         { palabra: "maquillaje", pista: "Cosméticos utilizados para resaltar la belleza facial." },
         { palabra: "espejo", pista: "Herramienta para observar el proceso de estilismo." },
         { palabra: "crema", pista: "Producto usado para hidratar la piel o cabello." },
@@ -72,8 +72,30 @@ const wordsByOfficio = {
         { palabra: "frontend", pista: "Parte del software visible para el usuario." },
         { palabra: "base de datos", pista: "Lugar donde se almacenan y gestionan los datos." },
         { palabra: "API", pista: "Conjunto de funciones que permiten interactuar con un sistema." }
+    ],
+
+     // Oficio 5: Área Psicosocial
+    oficio5: [
+        { palabra: "psicologo", pista: "Profesional encargado del diagnóstico y tratamiento de trastornos emocionales." },
+        { palabra: "terapia", pista: "Tratamiento psicológico para mejorar la salud mental." },
+        { palabra: "emociones", pista: "Reacciones psicológicas frente a diferentes estímulos." },
+        { palabra: "estrés", pista: "Reacción emocional y física ante situaciones de presión o desafío." },
+        { palabra: "ansiedad", pista: "Estado de nerviosismo o preocupación constante." },
+        { palabra: "depresión", pista: "Trastorno emocional caracterizado por tristeza y desánimo." },
+        { palabra: "autoestima", pista: "Percepción que una persona tiene de sí misma." },
+        { palabra: "bienestar", pista: "Estado general de salud física y emocional." },
+        { palabra: "meditación", pista: "Práctica para calmar la mente y reducir el estrés." },
+        { palabra: "psiquiatra", pista: "Médico especializado en el tratamiento de trastornos mentales." },
+        { palabra: "counseling", pista: "Proceso de asesoramiento y apoyo emocional." },
+        { palabra: "intervención", pista: "Acción para tratar o mejorar una situación psicológica." },
+        { palabra: "adictos", pista: "Personas que padecen dependencia a sustancias o comportamientos." },
+        { palabra: "confianza", pista: "Sentimiento de seguridad y credibilidad en una relación." },
+        { palabra: "comunicación", pista: "Intercambio de pensamientos, ideas y emociones." }
     ]
 };
+
+    
+            
 
 
 
